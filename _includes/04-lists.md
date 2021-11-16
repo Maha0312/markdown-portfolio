@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Favourite colour Green
+Hobbies Listening to music, playing with kids
+Favourite food Chapathi
